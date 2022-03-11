@@ -13,12 +13,18 @@ body {
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
+h4 {color: #FFFFFF}
+text-
+
+h2 {color: #FFFFFF}
+
 .resume-header {
     background-color: #F2CFBB;
 }
 
 .resume-main {
 	background-color: #D2D9C7;
+
 }
 
 .resume-aside {
