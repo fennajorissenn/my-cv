@@ -42,7 +42,9 @@ body {
 .biography-details li, .skill-list li {
 	padding-left: 1em;
 }
-
+.language-progress {
+	background-color:#C97D68
+}
 /* Styles for contact icons */
 
 .contact-icon {
